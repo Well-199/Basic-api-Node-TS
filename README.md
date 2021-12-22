@@ -13,4 +13,4 @@
 todas as tecnologias envolvidas na construção de
 pequenos projetos, aqui vc vai ver, estrutura de arquivos
 Models, ORM e como usar pouco e de forma eficiente o
-Typescript em seu preojeto.
+Typescript em seu projeto.
